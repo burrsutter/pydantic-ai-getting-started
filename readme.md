@@ -38,3 +38,11 @@ python hello.py
 python 5_agent_reflection_self_correction.py
 ```
 
+To review
+
+https://www.youtube.com/watch?v=UnH7S5044GA
+
+https://www.youtube.com/watch?v=hoIy26Rlk5s
+
+
+
