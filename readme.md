@@ -2,12 +2,14 @@ Taking Dave Ebbelaar's tutorial and make it more understanable for myself
 
 Video tutorial
 
-https://www.youtube.com/watch?v=zcYtSckecD8&t=1653s
+https://www.youtube.com/watch?v=zcYtSckecD8
 
 
 Original tutorial files
 
 https://github.com/daveebbelaar/pydantic-ai-tutorial
+
+I broke them up into individually runnable "programs".
 
 
 To run
